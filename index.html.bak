@@ -1,3 +1,15 @@
 <!DOCTYPE html>
 <html>
-</html>
+	<head>
+		<title>folder1 - Index Page</title>
+	</head>
+		<body>
+			<p><h1>This is the Index/Home page</h1></p>
+			<aside>
+				<h2>HNC Cybersecurity	-	Page 2</h2>
+				<h2>HND Cybersecurity	-	Page 3</h2>
+				<h2>BEng Cybersecurity	-	Page 4</h2>
+			</aside>
+			<a href="01.html">NEXT</a>
+		</body>
+</html>  
