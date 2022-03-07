@@ -6,9 +6,9 @@
 		<body>
 			<p><h1>This is the Index/Home page</h1></p>
 			<aside>
-				<h2>HNC Cybersecurity	-	Page 2</h2>
-				<h2>HND Cybersecurity	-	Page 3</h2>
-				<h2>BEng Cybersecurity	-	Page 4</h2>
+				<h2>HNC Cybersecurity	-	<a href="01.html">Page 2</a></h2>
+				<h2>HND Cybersecurity	-	<a href="02.html">Page 3</a></h2>
+				<h2>BEng Cybersecurity	-	<a href="03.html">Page 4</a></h2>
 			</aside>
 			<a href="01.html">NEXT</a>
 		</body>
